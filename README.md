@@ -1,10 +1,12 @@
 # Titulos
 
-## subtitulos
+* ![Codigo Python](https://github.com/IsaiPaz/programacion_web/blob/main/README.md#codigo-python)
+* ![Imagen](https://github.com/IsaiPaz/programacion_web/blob/main/README.md#imagen)
+* ![Tabla](https://github.com/IsaiPaz/programacion_web/blob/main/README.md#tabla)
 
 texto `codigo`
 
-##Codigo css
+## Codigo css
 
 ```css
 .calculadora {
